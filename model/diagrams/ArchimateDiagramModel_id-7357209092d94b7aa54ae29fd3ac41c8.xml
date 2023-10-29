@@ -1,4 +1,29 @@
 <archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Default View"
-    id="id-7357209092d94b7aa54ae29fd3ac41c8"/>
+    name="mesa de ayuda"
+    id="id-7357209092d94b7aa54ae29fd3ac41c8">
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-97f9e504e32f49c6bbf78370caf253b8"
+      name="Group"
+      textAlignment="1">
+    <bounds
+        x="141"
+        y="114"
+        width="556"
+        height="355"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-5fdd23e4335d48158a51bb1a5103a7f2">
+      <bounds
+          x="216"
+          y="60"
+          width="157"
+          height="85"/>
+      <archimateElement
+          xsi:type="archimate:BusinessService"
+          href="BusinessService_id-1320c6c314c94d50acff8109e48d2c51.xml#id-1320c6c314c94d50acff8109e48d2c51"/>
+    </children>
+  </children>
+</archimate:ArchimateDiagramModel>
