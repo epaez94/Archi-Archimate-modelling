@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="mesa prueba 1"
+    id="id-ac2678fcef0142fba62f5e565c29122c">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-90901cf9d84543c8ac959028071da4fe">
+    <bounds
+        x="151"
+        y="206"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessActor"
+        href="BusinessActor_id-7b81ae0d6c484bb0b2a19cd05575d1a0.xml#id-7b81ae0d6c484bb0b2a19cd05575d1a0"/>
+  </children>
+</archimate:ArchimateDiagramModel>
