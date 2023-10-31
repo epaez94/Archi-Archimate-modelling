@@ -11,16 +11,17 @@
     <bounds
         x="141"
         y="114"
-        width="556"
-        height="355"/>
+        width="1036"
+        height="583"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-5fdd23e4335d48158a51bb1a5103a7f2">
+        id="id-5fdd23e4335d48158a51bb1a5103a7f2"
+        targetConnections="id-47f1539c913b47ea9fe3bf1b5a0d4981">
       <bounds
           x="216"
           y="60"
-          width="157"
-          height="85"/>
+          width="361"
+          height="169"/>
       <archimateElement
           xsi:type="archimate:BusinessService"
           href="BusinessService_id-1320c6c314c94d50acff8109e48d2c51.xml#id-1320c6c314c94d50acff8109e48d2c51"/>
@@ -28,14 +29,35 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-2a30dd63a6384b36b8deb41295328771">
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-47f1539c913b47ea9fe3bf1b5a0d4981"
+          source="id-2a30dd63a6384b36b8deb41295328771"
+          target="id-5fdd23e4335d48158a51bb1a5103a7f2">
+        <archimateRelationship
+            xsi:type="archimate:TriggeringRelationship"
+            href="TriggeringRelationship_id-383887c560d94369a160e2c2aa1e48fa.xml#id-383887c560d94369a160e2c2aa1e48fa"/>
+      </sourceConnections>
       <bounds
-          x="282"
-          y="200"
-          width="120"
-          height="55"/>
+          x="285"
+          y="276"
+          width="223"
+          height="185"/>
       <archimateElement
           xsi:type="archimate:ApplicationComponent"
           href="ApplicationComponent_id-3e0b102dcf2147f9a73527ab8305a81f.xml#id-3e0b102dcf2147f9a73527ab8305a81f"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-12e299744f664846a6f6a02853644f82">
+      <bounds
+          x="720"
+          y="332"
+          width="296"
+          height="101"/>
+      <archimateElement
+          xsi:type="archimate:Device"
+          href="Device_id-4fb925deeab74db98ef6dee819784c6e.xml#id-4fb925deeab74db98ef6dee819784c6e"/>
     </children>
   </children>
 </archimate:ArchimateDiagramModel>
