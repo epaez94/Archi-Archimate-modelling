@@ -51,10 +51,10 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-12e299744f664846a6f6a02853644f82">
       <bounds
-          x="720"
-          y="332"
-          width="296"
-          height="101"/>
+          x="672"
+          y="304"
+          width="229"
+          height="157"/>
       <archimateElement
           xsi:type="archimate:Device"
           href="Device_id-4fb925deeab74db98ef6dee819784c6e.xml#id-4fb925deeab74db98ef6dee819784c6e"/>
